@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(47, 149, 239);
+}
+
+h1{
+    text-align: center;
+    color: black;
+    box-shadow: 3px 5px 5px 5px;
+}
+
+.menu-h{
+    margin-top: 10px;
+    background-color: rgb(49, 44, 44);
+     text-align: center;
+     align-items: center;
+     width:auto;
+     border-radius: 10%;
+    
+}
+
+
+.menu-h ul {
+    margin-top: 1px;
+    max-width: 600px;
+    list-style: none;
+    padding: 5px;
+    display: inline;
+}
+
+.menu-h ul li {
+    display: inline;
+    
+}
+
+.menu-h ul li a {
+    color: #fffffe;
+    padding: 15px;
+    display: inline-block;
+    width: 300px;
+    text-decoration: none;
+    transition: background .6s;
+}
+
+.menu-h ul li a:hover {
+    background-color: rgb(7, 106, 187);
+}
+
+h2{
+    text-align: center;
+    box-shadow: 2px 2px 1px 1px;
+}
+
+p{
+height: 10px;
+font-size: 25px;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+}
+
+.produtos{
+    text-align: center;
+    
+}
+
+.produtos li {
+    width: 170px;
+    display: inline-block;
+}
+
+button{
+font-size: 20px;
+background-color: chartreuse;
+border-radius: 50px;
+font-style: oblique
+}
